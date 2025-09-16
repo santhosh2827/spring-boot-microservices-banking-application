@@ -1,15 +1,4 @@
 <h1>Spring-Boot-Microservices-Banking-Application</h1>
-<h2>Table of Contents</h2>
-
-- [About](#-about)
-- [Architecture](#-architecture)
-- [Microservices](#-microservices)
-- [Getting Started](#-getting-started)
-- [Documentation](#-documentation)
-- [Future Enhancement](#-future-enhancement)
-- [Contribution](#-contribution)
-- [Contact Information](#-contact-information)
-- [About the Maintainer](#-about-the-maintainer)
 
 ## About
 <p>
@@ -44,26 +33,8 @@ To get started, follow these steps to run the application on your local applicat
 - Select an Integrated Development Environment (IDE) such as Eclipse, Spring Tool Suite, or IntelliJ IDEA. Configure the IDE according to your preferences.
 - Clone the repository containing the microservices onto your local system using Git. Navigate to the directory where you have cloned the repository.
 - Navigate to each microservice directory within the cloned repository and run the application. You can do this by using your IDE or running specific commands depending on the build tool used (e.g., Maven or Gradle).
-- Set up Keycloak for authentication and authorization. Refer to the detailed configuration guide provided [here](https://devscribbles.hashnode.dev/mastering-microservices-authentication-and-authorization-with-keycloak) for step-by-step instructions on configuring Keycloak for your microservices.
+- Set up Keycloak for authentication and authorization. Refer to the detailed configuration guide provided for step-by-step instructions on configuring Keycloak for your microservices.
 - Some microservices and APIs may depend on others being up and running. Ensure that all necessary microservices and APIs are up and functioning correctly to avoid any issues in the application workflow.
-
-<h2>Documentation</h2>
-<h3>Microservices Documentation</h3>
-
-For detailed information about each microservice, refer to their respective README files:
-
-- [User Service](./User-Service/README.md)
-- [Account Service](./Account-Service/README.md)
-- [Fund Transfer Service](./Fund-Transfer/README.md)
-- [Transactions Service](./Transaction-Service/README.md)
-
-<h3>API Documentation</h3>
-
-For a detailed guide on API endpoints and usage instructions, explore our comprehensive [API Documentation](https://app.theneo.io/student/spring-boot-microservices-banking-application). This centralized resource offers a holistic view of the entire banking application, making it easier to understand and interact with various services.
-
-<h3>Java Documentation (JavaDocs)</h3>
-
-Explore the linked [Java Documentation](https://kartik1502.github.io/Spring-Boot-Microservices-Banking-Application/) to delve into detailed information about classes, methods, and variables across all microservices. These resources are designed to empower developers by providing clear insights into the codebase and facilitating seamless development and maintenance tasks.
 
 ## Future Enhancement
 
